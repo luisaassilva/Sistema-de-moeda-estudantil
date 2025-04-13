@@ -16,7 +16,21 @@ Este repositório contém o trabalho em grupo realizado para a disciplina "Labor
 
 
 # Histórias de Usuário
-- 
+ Para Alunos:
+- Como aluno, eu quero me cadastrar no sistema para poder receber moedas estudantis.
+- Como aluno, eu quero visualizar meu saldo de moedas para saber quanto tenho disponível.
+- Como aluno, eu quero trocar moedas por vantagens para obter benefícios.
+- Como aluno, eu quero ver meu extrato de transações para acompanhar meu histórico.
+ Para Professores:
+-Como professor, eu quero distribuir moedas para alunos para reconhecer seu mérito.
+- Como professor, eu quero ver meu saldo de moedas disponíveis para planejar distribuições.
+- Como professor, eu quero visualizar meu histórico de distribuições para acompanhar minhas ações.
+- Para Empresas Parceiras:
+- Como empresa parceira, eu quero cadastrar vantagens para oferecer aos alunos.
+- Como empresa parceira, eu quero receber notificações de resgates para preparar os benefícios.
+Para Administradores:
+- Como administrador, eu quero cadastrar instituições de ensino para que alunos possam se vincular.
+- Como administrador, eu quero gerenciar professores pré-cadastrados para manter o sistema atualizado.
 
 # Diagrama de Classes
   <img src="" alt="Diagrama de Classes">
