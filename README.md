@@ -10,9 +10,7 @@ Este repositório contém o trabalho em grupo realizado para a disciplina "Labor
 - João Paulo Carneiro Aramuni
 
 # Casos de Uso
-  <img src="" alt="Casos de Uso">
-<a href="https://www.figma.com/board/qPDxQzaTfczsEQoSPJ8Hol/Sistema-de-Matr%C3%ADculas?node-id=0-1&t=hFg3s00BpGUwhGO7-1">Template do Figma</a>
-
+  <img src="https://github.com/luisaassilva/Sistema-de-moeda-estudantil/blob/main/diagramas/casos_uso.jpeg" alt="Casos de Uso">
 
 
 # Histórias de Usuário
@@ -33,5 +31,8 @@ Para Administradores:
 - Como administrador, eu quero gerenciar professores pré-cadastrados para manter o sistema atualizado.
 
 # Diagrama de Classes
-  <img src="" alt="Diagrama de Classes">
+  <img src="https://github.com/luisaassilva/Sistema-de-moeda-estudantil/blob/main/diagramas/diagrama_classes.jpeg" alt="Diagrama de Classes">
+
+  # Diagrama de componentes
+  <img src="https://github.com/luisaassilva/Sistema-de-moeda-estudantil/blob/main/diagramas/diagrama_componentes.jpeg" alt="Diagrama de Classes">
 
