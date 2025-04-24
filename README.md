@@ -36,3 +36,6 @@ Para Administradores:
   # Diagrama de componentes
   <img src="https://github.com/luisaassilva/Sistema-de-moeda-estudantil/blob/main/diagramas/diagrama_componentes.jpeg" alt="Diagrama de Classes">
 
+  # Diagrama de componentes
+  <img src="https://github.com/luisaassilva/Sistema-de-moeda-estudantil/blob/main/diagramas/ModeloER.png" alt="Diagrama de Classes">
+
