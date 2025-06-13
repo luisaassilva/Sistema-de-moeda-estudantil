@@ -10,7 +10,7 @@ Este repositório contém o trabalho em grupo realizado para a disciplina "Labor
 - João Paulo Carneiro Aramuni
 
 # Casos de Uso
-  <img src="https://github.com/luisaassilva/Sistema-de-moeda-estudantil/blob/main/diagramas/casosuso.jpeg" alt="Casos de Uso">
+  <img src="https://github.com/luisaassilva/Sistema-de-moeda-estudantil/blob/main/diagramas/casosuso.png" alt="Casos de Uso">
 
 
 # Histórias de Usuário
